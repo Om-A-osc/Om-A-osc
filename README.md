@@ -1,5 +1,5 @@
 # About Me:
- Interested in Numerical Computing and High-Performance C++<br><br> Enjoy implementing algorithms from scratch (linear algebra, eigenvalue methods, BLAS-level routines)<br><br> Exploring Machine Learning & AI with strong mathematical foundations<br><br> Experimenting with blockchain and cryptocurrency implementations<br><br> Creating games with Unity and learning advanced game development concepts
+ Interested in Numerical Computing and High-Performance C++<br><br> Enjoy implementing algorithms from scratch (linear algebra, Statistics, BLAS-level routines)<br><br> Exploring Machine Learning & AI with strong mathematical foundations<br><br> Experimenting with blockchain and cryptocurrency implementations<br><br> Creating games with Unity and learning advanced game development concepts
 
 
 ##  Socials:
